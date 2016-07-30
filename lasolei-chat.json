@@ -1,0 +1,9 @@
+{
+  "name": "LaSolei-Chat",
+  "description": "Let's chat",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "ejs": "*"
+  }
+}
